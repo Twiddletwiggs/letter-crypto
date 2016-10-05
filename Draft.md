@@ -20,7 +20,7 @@ Specific concerns with OneCoin include the following:
 - the tokens generated in the OneCoin project are locked up for a significant period of time, causing investors to believe there will be future value to these in some years when this is extremely unlikely, probably impossible
 - OneCoin places arbitrary values on fictitious tokens which do not have a relation to real value on any major exchange or other free market or independent measurement of value
 
-We request that OneCoin be investigated for violation of existing laws and that yournagency consider issuing a consumer warning.
+We request that OneCoin be investigated for violation of existing laws and that your agency consider issuing a consumer warning.
 
 Sincerely,
 
